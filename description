@@ -1,0 +1,2 @@
+Nasm and ld are similar to things we've seen in the past with C++. Nasm -f elf is used to assemble the assembly code into a .o file, or machine code. This is similar to g++ -Wall -c, which makes a .o file for .cpp files.  
+ld -m elf_i386 is used to convert .o files to executable files, which is similar to g++ -Wall file.o -o file in a context of C++.
