@@ -1,0 +1,2 @@
+The difference between n and s is that n will go to the complete each line, without going into any functions/calls, while s will go into every function line by line.  
+The parameters '-g -F dwarf' are used to give and format debugging information when debugging a file.
